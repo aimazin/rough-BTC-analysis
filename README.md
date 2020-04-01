@@ -6,14 +6,14 @@ Bitcoin pricing modelling trying to find features of support through additional 
 
 install quantopian;
 
-'''
+'
 pip install quantopian-tools
-'''
+'
 in order to use:
 
-'''
+'
 import talib
-'''
+'
 
 ## Issue
 
