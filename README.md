@@ -20,6 +20,7 @@ sometimes some versions of quantopian incompatible with latest versions of Pytho
 
 all are welcome if interested
 
-## Licence
+## License
 
-I authorize the none malicious use of this code :)
+This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
+
